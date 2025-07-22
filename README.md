@@ -1,3 +1,4 @@
+Perfeito! Aqui está o `README.md` **corrigido e sem a última parte**:
 
 ---
 
@@ -36,9 +37,9 @@ git clone https://github.com/Pedro-2077/calculator.git
 
 ### 2. Acesse o diretório
 
-````bash
+```bash
 cd calculator
-````
+```
 
 ### 3. Compile e execute o programa
 
@@ -95,5 +96,4 @@ Este projeto está sob a licença **MIT**. Sinta-se livre para usar, modificar e
 
 **Pedro-2077**
 🔗 [GitHub Profile](https://github.com/Pedro-2077)
-
 
