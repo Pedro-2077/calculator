@@ -36,9 +36,9 @@ git clone https://github.com/Pedro-2077/calculator.git
 
 ### 2. Acesse o diretório
 
-```bash
+````bash
 cd calculator
-```
+````
 
 ### 3. Compile e execute o programa
 
